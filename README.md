@@ -26,7 +26,7 @@ It’s recommended to use a virtual environment.
 pip install -r requirements.txt
 ```
 
-### 3. Run THe Steamlit App
+### 3. Run The Steamlit App
 
 ```bash
 streamlit run zomato_dashboard.py
