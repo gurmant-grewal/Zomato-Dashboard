@@ -47,3 +47,7 @@ zomato-dashboard/
 	•	Streamlit
 	•	Pandas
 	•	Plotly
+
+## 🧪 Exploratory Data Analysis (EDA)
+
+You can view the full EDA process in [zomato_eda.ipynb](zomato_eda.ipynb)
